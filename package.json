@@ -1,0 +1,15 @@
+{
+  "name": "safety-cross-api",
+  "module": "app.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "nats": "^2.16.0",
+    "pg": "^8.11.3"
+  }
+}
